@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #12022f;
+}
+
+.publishedDate {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #9aa5b1;
+  font-weight: 500;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #9aa5b1;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.hr-line {
+  background-color: #9aa5b1;
+  height: 2px;
+  border: 0px solid;
+}
